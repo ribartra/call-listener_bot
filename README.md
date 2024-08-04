@@ -33,7 +33,7 @@ The Call-Listener Bot automates the monitoring and analysis of sales calls by do
 ### Installation
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone https://github.com/ribartra/call-listener_bot.git
 # Navigate into the project directory
 cd call-listener_bot
 # Install the required Python libraries
