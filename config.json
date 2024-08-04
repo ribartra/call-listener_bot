@@ -1,0 +1,11 @@
+{
+    "OPENAI_API_KEY": "...",
+    "recorded_calls_drive_folder_id": "...",
+    "transcripted_calls_drive_folder_id": "...",
+    "analyzed_calls_drive_folder_id": "...",
+    "list_of_salesmen": "...",
+	"list_of_criteria": "...",
+    "ccvox_user": "...",
+    "ccvox_password": "...",
+	"ccvox_url": "..."
+}
