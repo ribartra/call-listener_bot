@@ -1,7 +1,3 @@
-Sure, I'll update the `Readme.md` for the **call-listener_bot** based on the additional details you've provided. Here's the revised version:
-
----
-
 # Call-Listener Bot
 
 ## Overview
