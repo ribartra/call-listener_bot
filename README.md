@@ -3,6 +3,8 @@
 ## Overview
 The Call-Listener Bot automates the monitoring and analysis of sales calls by downloading, transcribing, and analyzing calls based on predefined criteria. The insights are compiled into reports and uploaded for accessibility, facilitating the enhancement of sales advisor strategies.
 
+<img src="CallListenerBot.png" alt="Diagrama del flujo de trabajo del Call-Listener Bot" width="900"/>
+
 ## Features
 - **Automated Downloads:** Retrieves specific advisors' call recordings from Google Drive.
 - **Transcription and Analysis:** Transcribes calls using OpenAI Whisper and classifies them via GPT-4 based on compliance with set criteria.
