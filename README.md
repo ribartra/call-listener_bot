@@ -73,4 +73,4 @@ The bot can be adapted to any sequential process and requires detailed definitio
 Contributions are welcome! Please fork the repository and submit a pull request with your suggested changes or enhancements.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
